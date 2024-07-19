@@ -1,4 +1,4 @@
-# Melanoma PDX metabolomics
+# Melanoma PDX metabolic phenotypes
 This repo contains scripts used to generate figures in *Conservation and Divergence of Metabolic Phenotypes between Patient Tumors and their Matched Xenografts* by Rao et al.
 Scripts are organized based on the input data:
 1. Batch 1 data refers to 18 pairs of patient tumor and early passage PDX metabolomics data.
